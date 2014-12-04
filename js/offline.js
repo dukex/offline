@@ -41,7 +41,7 @@
       active: 'xhr'
     },
     checkOnLoad: false,
-    interceptRequests: true,
+    interceptRequests: false,
     reconnect: true
   };
 

@@ -32,7 +32,7 @@ defaultOptions =
 
   checkOnLoad: false
 
-  interceptRequests: true
+  interceptRequests: false
 
   reconnect: true
 
